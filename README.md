@@ -1,4 +1,4 @@
-### Oi, me chamo JASON, sou novo po aqui.  👋
+### Oi, me chamo JASON, sou novo por aqui.  👋
 
 
 - 🔭 Hoje trabalho com Seguros
