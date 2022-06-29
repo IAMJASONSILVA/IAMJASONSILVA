@@ -40,3 +40,4 @@
   
 </div>
 
+![snake gif](https://github.com/iamjaosnsilva/iamjaosnsilva/blob/output/github-contribution-grid-snake.svg)
