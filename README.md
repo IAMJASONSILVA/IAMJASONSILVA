@@ -4,9 +4,9 @@
 
 ### 🙋‍♂️ About me
 
-Olá, sou o Jason SilvaHi, 
+Olá, sou o Jason Silva
 
-I'm Victor Maitan
+Hi, I'm Jason Silva
 
 
 <div align="left">
