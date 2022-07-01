@@ -1,6 +1,10 @@
-## <p align="left">Olá! Eu sou Jason. Tudo bem? 😃️</p>
+#Jason Silva
 
+![visitors](site em desenvolvimento)
 
+### 🙋‍♂️ About me
+
+Olá, sou o Jason Silva
 
 </div>
 
@@ -11,29 +15,35 @@
   </a>
 </div>
 
- ##
- <div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<!--   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png"> -->
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
- </div><br>
+### 👨‍🏭 Minhas Habilidades/My skills
+ 
+ <p align="center">
+   <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <!-- Javascript -->
+  <img src="https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Webpack-2b3a42?style=for-the-badge&logo=webpack&logoColor=8acef2"/>
+  <!-- JSON -->
+  <img src="https://img.shields.io/badge/json-9a9a9a?style=for-the-badge&logo=json&logoColor=2f2f2f"/>
+  <!-- Git -->
+  </p> 
 
-##
+###  👨‍💻  Tenho conhecimento/I have knowledge
+<p align="center">
+<!-- My SQL -->
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <!-- Google Cloud -->
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+ 
+</p>
 
+### 📫 Como entrar em contato comigo/How to contact me
 <div> 
   <a href="https://instagram.com/iamjason_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.gg/JASON SILVA#8212" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:softwareengineerdevjay@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jason-silva-081902197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   
-</div>
-
 ![snake gif](https://github.com/iamjaosnsilva/iamjaosnsilva/blob/output/github-contribution-grid-snake.svg)
