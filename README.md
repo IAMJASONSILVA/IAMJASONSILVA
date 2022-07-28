@@ -25,19 +25,15 @@ Hi, I'm Jason Silva
   <img src="https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
   <!-- Javascript -->
   <img src="https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Webpack-2b3a42?style=for-the-badge&logo=webpack&logoColor=8acef2"/>
-  <!-- JSON -->
-  <img src="https://img.shields.io/badge/json-9a9a9a?style=for-the-badge&logo=json&logoColor=2f2f2f"/>
   <!-- Git -->
   </p> 
 
 ###  👨‍💻  Tenho conhecimento/I have knowledge
 <p align="center">
-<!-- My SQL -->
+  <!-- My SQL -->
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
    <!-- Google Cloud -->
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
- 
 </p>
 
 ### 📫 Como entrar em contato comigo/How to contact me
